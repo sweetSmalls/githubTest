@@ -10,8 +10,8 @@
 
 https://blog.csdn.net/weixin_41990913/article/details/91373362
 
-<<<<<<< HEAD
+
 这是主干上的代码
-=======
+
 这是一个分支切记
->>>>>>> firstDev
+
